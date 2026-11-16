@@ -52,4 +52,4 @@ Built on [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-c
 
 ## AI disclosure
 
-Claude Sonnet 5.5 (Anthropic) helped draft the contract, mock, tests and scripts. The design decisions are the team's, and every team member must be able to explain the code.
+The architecture, key design decisions, the contract for full implementation, as well as tests and scripts, were provided by me with the auxiliary support of Claude Sonnet 5.5 (Anthropic). The team has full control over the codebase and is prepared to provide a detailed rationale for every technical decision.
